@@ -1,0 +1,25 @@
+---
+title: Arduino based Pulse Oximeter
+cover-image: ../../summary.jpg
+mainfont: DejaVu Sans
+classoption: onecolumn
+documentclass: scrartcl
+latex_engine: pdflatex
+pdf_document:
+toc: true
+lof: false
+sectionsDepth: 2
+figPrefix:
+  - "Fig."
+  - "Figs."
+secPrefix:
+  - "Section"
+  - "Sections"
+fontsize: 12pt
+geometry: margin=1in
+autoEqnLabels: true
+cref: true
+crossref: true
+hyphenate: true
+numbersections: true
+---

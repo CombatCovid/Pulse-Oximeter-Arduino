@@ -1,0 +1,4 @@
+Item ;Amount ;Reference given to buy the item;Necessary Tools and machines
+A000005 - Development Board, Arduino Nano, ATmega328 MCU, 14 3.3V I/O, 6 PWM Outputs, USB Mini B;1;https://www.newark.com/arduino/a000005/dev-board-atmega328-arduino-nano/dp/13T9275?COM=ref_hackster;3D printer (generic)
+MAXREFDES117# - Reference Design Board, Pulse Oximeter & Heart Rate Monitor, MAX30102, MAX14595, MAX1921;1;https://www.newark.com/maxim-integrated-products/maxrefdes117/ref-des-brd-heart-rate-pulse-oximeter/dp/96Y9339;Soldering Iron (generic)
+Gravity I2C OLED-128x64 Display;1;https://www.dfrobot.com/product-1576.html;
