@@ -93,5 +93,5 @@ parts:
     reference: link
 
 # Documentation
-bom: value                              # recommended | absolute or relative path | Direct the maker to the Bill of Materials
+bom: src/bom.csv                              # recommended | absolute or relative path | Direct the maker to the Bill of Materials
 
