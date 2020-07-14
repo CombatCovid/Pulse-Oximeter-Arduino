@@ -2,7 +2,7 @@
 # Comments are expressed with a # preceding the line of text
 # Be as explicit and contextual as possible
 title: Arduino based Pulse Oximeter
-finderPriority: 5
+finderPriority: 500
 
 # Name of the actual github repository
 name: pulse-oximeter-arduino
